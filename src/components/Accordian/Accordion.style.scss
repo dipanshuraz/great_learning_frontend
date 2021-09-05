@@ -1,0 +1,48 @@
+.accordion {
+  width: 80%;
+  margin: 2rem auto;
+  border: 2px solid rgba(121, 121, 121, 0.568);
+}
+
+.accordion-item {
+  background: white;
+  padding: 1rem;
+}
+
+.accordion-item:not(:last-child) {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.568);
+}
+
+.accordion-title {
+  position: relative;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 300;
+  // display: flex;
+  // justify-content: center;
+}
+
+.accordion-title-icon {
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.accordion-content {
+  font-weight: 300;
+  font-size: 14px;
+  text-align: justify;
+  padding: 1rem;
+}
+
+@media screen and (max-width: 700px) {
+  body {
+    font-size: 18px;
+  }
+
+  .accordion {
+    width: 90%;
+  }
+}

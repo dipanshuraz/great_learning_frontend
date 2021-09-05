@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="74px" viewBox="0 0 60 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>noun_curriculum_100870</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-279.000000, -1345.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group-5" transform="translate(231.000000, 1304.000000)">
+                <g id="noun_curriculum_100870" transform="translate(48.000000, 41.000000)">
+                    <g id="Group">
+                        <path d="M6,0 L1.876,0 L1.876,12 L1,12 C0.447,12 0,12.448 0,13 C0,13.552 0.447,14 1,14 L1.876,14 L1.876,28 L1,28 C0.447,28 0,28.448 0,29 C0,29.552 0.447,30 1,30 L1.876,30 L1.876,44 L1,44 C0.447,44 0,44.447 0,45 C0,45.553 0.447,46 1,46 L1.876,46 L1.876,60 L1,60 C0.447,60 0,60.447 0,61 C0,61.553 0.447,62 1,62 L1.876,62 L1.876,74 L6,74 L60,74 L60,0 L6,0 Z M3.876,2 L6,2 L6,12 L3.876,12 L3.876,2 Z M3.876,14 L6,14 L6,28 L3.876,28 L3.876,14 Z M3.876,30 L6,30 L6,44 L3.876,44 L3.876,30 Z M3.876,46 L6,46 L6,60 L3.876,60 L3.876,46 Z M3.876,72 L3.876,62 L6,62 L6,72 L3.876,72 Z M58,72 L8,72 L8,2 L58,2 L58,72 Z" id="Shape"></path>
+                        <path d="M28,12 L14,12 L14,26 L28,26 L28,12 Z M26,24 L16,24 L16,14 L26,14 L26,24 Z" id="Shape"></path>
+                        <rect id="Rectangle" x="35" y="12" width="16" height="2"></rect>
+                        <rect id="Rectangle" x="35" y="16" width="16" height="2"></rect>
+                        <rect id="Rectangle" x="35" y="20" width="12" height="2"></rect>
+                        <rect id="Rectangle" x="23" y="36" width="28" height="2"></rect>
+                        <rect id="Rectangle" x="23" y="40" width="28" height="2"></rect>
+                        <rect id="Rectangle" x="23" y="44" width="28" height="2"></rect>
+                        <rect id="Rectangle" x="14" y="36" width="2" height="2"></rect>
+                        <rect id="Rectangle" x="14" y="40" width="2" height="2"></rect>
+                        <rect id="Rectangle" x="14" y="44" width="2" height="2"></rect>
+                        <rect id="Rectangle" x="23" y="52" width="28" height="2"></rect>
+                        <rect id="Rectangle" x="23" y="56" width="28" height="2"></rect>
+                        <rect id="Rectangle" x="23" y="60" width="28" height="2"></rect>
+                        <rect id="Rectangle" x="14" y="52" width="2" height="2"></rect>
+                        <rect id="Rectangle" x="14" y="56" width="2" height="2"></rect>
+                        <rect id="Rectangle" x="14" y="60" width="2" height="2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
